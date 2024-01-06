@@ -1,5 +1,5 @@
 import type {Config} from 'tailwindcss'
-import {shadcnPreset} from "./src/lib/shadcnpreset";
+import {shadcnPreset} from "notdustoffui-package";
 
 const config: import('tailwindcss').Config = {
   presets : [shadcnPreset],

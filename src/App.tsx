@@ -1,5 +1,6 @@
 import { useState } from 'react'
-import { Button, buttonVariants } from "@/components/ui/button"
+
+import { Button, buttonVariants} from 'notdustoffui-package'
 import './App.css'
 
 function App() {
