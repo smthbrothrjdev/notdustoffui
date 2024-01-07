@@ -1,7 +1,6 @@
 import { useState } from 'react'
 
-import { Button, buttonVariants} from 'notdustoffui-package'
-import './App.css'
+import { Button, buttonVariants} from './components/ui/button.tsx'
 
 function App() {
   const [count, setCount] = useState(0)
